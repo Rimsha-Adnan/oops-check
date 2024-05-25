@@ -14,7 +14,7 @@
 <p>Run the application using the following command "npx i oops-by-rimsha" </p>
 <h1>License 📃 </h1>
 <p>This project is licensed under the ISC License. See the LICENSE file for details.</p>
-<h1>Contac 📧t</h1>
+<h1>Contact 📧 </h1>
 <p>For questions or feedback, please reach out to my linkdin ["https://www.linkedin.com/in/rimsha-sheikh-hardwork-developer/"]</p>
 <h1>Author : Rimsha Sheikh 🌺</h1>
 </i>
